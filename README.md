@@ -1,8 +1,4 @@
----
-title: Portfolio
----
-
-# Welcome to My GitHub Page
+# Welcome to My Page
 
 I'm a backend engineer and SRE.
 
