@@ -26,7 +26,7 @@ TOOLS=(
   "tree"              # Display directories as trees
   "ncdu"              # Disk usage analyzer with interactive TUI
   "duf"               # Disk usage/free space viewer with nicer UI
-  "exa"               # Modern replacement for 'ls' with colors, tree view (may not be in older Ubuntu repos)
+  "eza"               # Modern replacement for 'ls' with colors, tree view (may not be in older Ubuntu repos)
 
   # 🖥️ System monitoring tools
   "htop"              # Interactive process viewer
